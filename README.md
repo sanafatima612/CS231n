@@ -1,11 +1,12 @@
-# CS231n: Convolutional Neural Networks for Visual Recognition - Assignment Solutions
+# Deep Dive into Stanford’s CS231n: Where Computer Vision and Neural Networks Come to Life
+
+Embarking on Stanford's CS231n journey has been, in a word, exhilarating. This course covers everything from the basics to the intricate details of computer vision. If you’re interested in understanding what goes into training AI to "see," then this course is like gold!
 
 
-This repository contains my solutions to the assignments of the [CS231n](http://cs231n.stanford.edu/) course offered by Stanford University (Spring 2018).
+As I walk through each assignment, I’ll be sharing insights, tips, and "aha" moments. It’s definitely not a breeze – the concepts are intense – but seeing progress is worth every struggle. From feature mapping to the complexities of convolutional layers, I’ll highlight key learnings so you can join in the journey.
 
-Find course notes and assignments [here](http://cs231n.github.io) and be sure to check out the video lectures for [Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) and [Spring 2017](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)!
 
-Assignments using Tensorflow are completed, those using Pytorch will be implemented in the future.
+Follow along in my Medium articles as I break down each milestone. It’s a mix of fun discoveries, real challenges, and practical steps I’m taking to build a solid computer vision foundation. You can find my latest updates here: Medium Link.
 
 ### Assignment 1:
 - [Q1](https://github.com/jariasf/CS231n/blob/master/assignment1/knn.ipynb): k-Nearest Neighbor classifier. (_Done_)
